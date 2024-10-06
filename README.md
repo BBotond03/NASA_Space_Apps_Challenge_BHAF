@@ -2,6 +2,9 @@
 
 In this project, we aim to reduce power consumption in space by reducing the size of seismic event data. We achieve this by using algorithms and filtering the data. In this GitHub repository, we provide example databases, along with relevant algorithms that detect seismic events and filters that help clean the data for better detection.
 
+## Documentation
+For detailed documentation, you can access our project [here](https://drive.google.com/file/d/1356yBqcECAjn_dYa0D1YLX2tcMhEJhN8/view?usp=sharing).
+
 ## main_algo
 Our best working and most versatile algorithm. It detects the start and end of a seismic event, as well as the entire seismic event itself based on the dampening of the data. It achieved nearly 99% precision on the test data, with a certain confidence interval.
 
